@@ -1,0 +1,60 @@
+body {
+	font-family: sans-serif;
+	text-align: center;
+	background: linear-gradient(to left,#7808f0,#06bdf5);
+}
+
+h1 {
+	font-size: 50px;
+	font-weight: bold;
+	color: #333;
+}
+
+p {
+	font-size: 20px;
+	font-weight: 700;
+	color: #333;
+}
+
+.container {
+	width: 600px;
+	background: #ddd;
+	text-align: left;
+	width: 500px;
+	margin: 0 auto;
+}
+
+.text-input {
+	width: 450px;
+	height: 40px;
+	font-size: 25px;
+	border: none;
+	background: white;
+	font-family: sans-serif;
+	font-weight: 300;
+	border: 0;
+	border-radius: 10px;
+	margin: 1.5px;
+}
+
+.submit-button {
+	font-size: 20px;
+	border: none;
+	background: white;
+	font-family: sans-serif;
+	font-weight: 300;
+	border: 0;
+	border-radius: 30px;
+	margin: 1.5px;
+}
+
+.my-list {
+	text-align: left;
+	display: inline-block;
+	text-align: left;
+	font-size: 20px;
+}
+
+.separator {
+	height: 20px;
+}
