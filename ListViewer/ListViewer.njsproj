@@ -29,7 +29,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="public\index.html" />
-    <Content Include="public\StyleSheet.css" />
+    <Content Include="public\styles.css" />
     <Content Include="server.js" />
     <Content Include="package.json" />
     <Content Include="README.md" />

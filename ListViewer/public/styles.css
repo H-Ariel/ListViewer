@@ -1,7 +1,7 @@
 body {
 	font-family: sans-serif;
 	text-align: center;
-	background: linear-gradient(to left,#7808f0,#06bdf5);
+	background: linear-gradient(90deg,#7808f0,#06bdf5);
 }
 
 h1 {
@@ -14,14 +14,6 @@ p {
 	font-size: 20px;
 	font-weight: 700;
 	color: #333;
-}
-
-.container {
-	width: 600px;
-	background: #ddd;
-	text-align: left;
-	width: 500px;
-	margin: 0 auto;
 }
 
 .text-input {
@@ -38,18 +30,26 @@ p {
 }
 
 .submit-button {
-	font-size: 20px;
-	border: none;
+	width: 100px;
+	height: 40px;
 	background: white;
+	font-size: 20px;
 	font-family: sans-serif;
 	font-weight: 300;
 	border: 0;
-	border-radius: 30px;
+	border-radius: 10px;
 	margin: 1.5px;
 }
 
-.my-list {
+.container {
+	width: 600px;
+	background: #ddd;
 	text-align: left;
+	margin: 0 auto;
+	border-radius: 10px;
+}
+
+.my-list {
 	display: inline-block;
 	text-align: left;
 	font-size: 20px;
